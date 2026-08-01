@@ -56,8 +56,8 @@ Conquistar uma oportunidade de estágio em desenvolvimento de software para apli
 ## 📄 Currículo
 
 <p align="left">
-  <a href="https://raw.githubusercontent.com/pedroplovcke/pedroplovcke/main/Pedro_Lovcke_Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Visualizar%20Currículo-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  <a href="https://raw.githubusercontent.com/pedroplovcke/pedroplovcke/main/PEDRO%20PARIZOTTO%20LOVCKE%20Curriculum.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Currículo-Ver%20PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
 
