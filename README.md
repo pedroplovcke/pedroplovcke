@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá 👋, eu sou o Pedro Lövcke
 
-<!--
-**pedroplovcke/pedroplovcke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Estudante de Ciência da Computação | Java | Buscando estágio em desenvolvimento**  
+🇧🇷 Brazil
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Links
+
+<p align="left">
+  <a href="https://github.com/pedroplovcke">
+  <a href="https://www.instagram.com/parizottolovcke/">
+</p>
+
+---
