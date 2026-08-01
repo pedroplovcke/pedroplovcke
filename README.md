@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=220&section=header&text=Pedro%20Lövcke&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-</p>
 
 <h1 align="center">Olá 👋, eu sou o Pedro Lövcke</h1>
 
