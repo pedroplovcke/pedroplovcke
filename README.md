@@ -20,10 +20,6 @@
   <a href="https://www.instagram.com/parizottolovcke/">
     <img src="https://img.shields.io/badge/Instagram-@parizottolovcke-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
-  <a href="./Pedro_Lovcke_Resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -32,25 +28,37 @@
 
 🎓 Atualmente curso **Ciência da Computação** na **FURB**.
 
-💡 Estou desenvolvendo meus conhecimentos em desenvolvimento de software por meio de projetos pessoais e acadêmicos, com foco em:
+💻 Estou aprendendo e desenvolvendo projetos utilizando:
 
-- Java
-- Programação Orientada a Objetos
-- Git e GitHub
+- ☕ Java
+- 🌱 Programação Orientada a Objetos
+- 🌿 Git e GitHub
 
-🎯 Meu objetivo é conquistar uma oportunidade de estágio em desenvolvimento de software para aplicar meus conhecimentos, aprender com profissionais da área e evoluir como desenvolvedor.
+🎯 Meu objetivo é conquistar uma oportunidade de estágio em desenvolvimento de software, aplicando meus conhecimentos enquanto continuo evoluindo como desenvolvedor.
 
-🏀 Além da tecnologia, sou atleta de basquete, experiência que fortaleceu minha disciplina, trabalho em equipe e comprometimento.
+🏀 Também sou atleta de basquete, experiência que fortaleceu minha disciplina, responsabilidade, organização e trabalho em equipe.
+
+---
+
+## 📄 Currículo
+
+Caso queira conhecer melhor minha trajetória acadêmica e profissional, meu currículo está disponível abaixo.
+
+<p align="left">
+  <a href="./Pedro_Lovcke_Resume.pdf">
+    <img src="https://img.shields.io/badge/📄%20Visualizar%20Currículo-PDF-red?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
 ## 💻 Tecnologias
 
 <p align="left">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
@@ -59,12 +67,10 @@
 
 🚧 Em desenvolvimento...
 
-Em breve você encontrará aqui projetos envolvendo:
+Em breve estarão disponíveis projetos envolvendo:
 
-- Sistemas em Java
-- Programação Orientada a Objetos
-- Estruturas de Dados
-- APIs
-- Banco de Dados
-
----
+- 💻 Sistemas em Java
+- 📚 Programação Orientada a Objetos
+- 🗄️ Banco de Dados
+- 🌐 APIs REST
+- ⚙️ Estruturas de Dados
