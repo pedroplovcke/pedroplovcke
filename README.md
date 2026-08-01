@@ -11,10 +11,13 @@
   <a href="https://github.com/pedroplovcke">
     <img src="https://img.shields.io/badge/GitHub-pedroplovcke-181717?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://www.linkedin.com/in/pedro-parizotto-lovcke-76b1613b6/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Lövcke-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://www.instagram.com/parizottolovcke/">
     <img src="https://img.shields.io/badge/Instagram-@parizottolovcke-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
-
 ---
+```
