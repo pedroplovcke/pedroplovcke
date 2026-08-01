@@ -79,18 +79,6 @@ Conquistar uma oportunidade de estágio em desenvolvimento de software para apli
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pedroplovcke&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroplovcke&layout=compact&theme=github_dark"/>
-
-</p>
-
----
-
 ## 📌 Projetos
 
 🚧 Em desenvolvimento...
