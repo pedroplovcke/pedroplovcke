@@ -78,15 +78,14 @@ Conquistar uma oportunidade de estágio em desenvolvimento de software para apli
 
 ## 📌 Projetos
 
-🚧 Em desenvolvimento...
+### ✅ Concluídos
+- **[Automação de Triagem de Chamados com IA](https://github.com/pedroplovcke/triagem_chamados_ia)** — Sistema de suporte que captura tickets via PowerShell, classifica a urgência usando Google Gemini AI (via Make.com) e registra automaticamente no Google Sheets.
 
-Em breve estarão disponíveis:
-
+### 🚧 Em desenvolvimento
+- 🔄 **Migração do Triagem de Chamados para Java** (substituindo o script PowerShell por Back-end em Java)
 - 🏦 Sistema Bancário em Java
 - 📚 Sistema de Biblioteca
-- 📝 To-Do List
 - 🌐 API REST com Spring Boot
-- 🗄️ CRUD com MySQL
 
 ---
 
